@@ -15,5 +15,5 @@
 - @sanity/block-content-to-react
 
 ### Used tutorials:
-- [Build a Portfolio Website With React & Sanity.io](https://www.youtube.com/watch?v=NO7_jgzVgbc&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=37)
-- [Sanity Crash Course: Learn The Basics in 20 Minutes!](https://www.youtube.com/watch?v=bDVAQZVeebw)
+- [Build a Portfolio Website With React & Sanity.io](https://www.youtube.com/watch?v=NO7_jgzVgbc&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=37) (by Kapehe, Traversy Media)
+- [Sanity Crash Course: Learn The Basics in 20 Minutes!](https://www.youtube.com/watch?v=bDVAQZVeebw)(by Kapehe)
